@@ -20,7 +20,7 @@ Install socket by running the command   'pip install socket'
 - In the editor navigate the the PythonRuntimeUtilities Plugin folder and make a child of the blueprint contained within
 - TODO Finish this README
 - contact me on Discord if any questions     \
-- #discord username:   fortbonnitar
+# My Discord Username:   fortbonnitar
 
 
 
