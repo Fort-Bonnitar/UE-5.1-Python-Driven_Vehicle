@@ -19,7 +19,8 @@ Install socket by running the command   'pip install socket'
 - Once your project is loaded, in the editor open the Plugins and ensure that the PythonRuntimeUtilities Plugin and the TCPSocket Plugin are both enabled.
 - In the editor navigate the the PythonRuntimeUtilities Plugin folder and make a child of the blueprint contained within
 - TODO Finish this README
-- contact me on Discord if any questions     discord username:   fortbonnitar
+- contact me on Discord if any questions     \
+- #discord username:   fortbonnitar
 
 
 
