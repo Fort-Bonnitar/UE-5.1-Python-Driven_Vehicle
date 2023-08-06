@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0",
+	"VersionName": "1.1.0",
 	"FriendlyName": "PyRuntimeUtility",
 	"Description": "Enables the communcation to and from an external Python script at runtime.",
 	"Category": "Python Runtime",

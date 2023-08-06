@@ -99,7 +99,7 @@ while True:
 
     # Data is firstly decoded from bytes to a string
     data_string = data.decode()
-    # print(f'data as string = {data_string}')
+    print(f'data as string = {data_string}')
 
 
 
